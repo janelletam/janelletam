@@ -26,13 +26,13 @@ When I hear how one of my projects has impacted someone’s life, I feel empower
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     </a>
     <a href="https://www.python.org" target="_blank">
-        <img src="https://github.com/devicons/devicon/tree/master/icons/python" alt="python" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
     <a href="https://www.javascript.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>
     <a href="https://nodejs.org/en" target="_blank">
-        <img src="https://github.com/devicons/devicon/tree/master/icons/nodejs" alt="nodejs" width="40" height="40"/>
+        <img src="[https://github.com/devicons/devicon/tree/master/icons/nodejs](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg)" alt="nodejs" width="40" height="40"/>
     </a>
     <a href="https://www.cprogramming.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
