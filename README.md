@@ -4,7 +4,7 @@
 I'm Janelle, and I deeply believe that when people have the time and space to work intentionally on projects that are important to them, they create beautiful and inspiring work. :)
 
 1) I found my own passion at 16 when I built Project Empathic, a BC non-profit teaching elementary school students about homelessness through empathy-building workshops. 
-2) I now co-host Douze à Deux co-working sessions in Montreal to offer builders and makers a space to create. 
+2) I now co-host [Douze à Deux](https://douzeadeux.vercel.app/) co-working sessions in Montreal with some of my favourite people to offer builders and makers a space to create. 
 3) My dream is to create socially-impact software that supports outreach workers and non-profits on their mission to solve homelessness. 
 
 🔭 What I'm currently working on:
