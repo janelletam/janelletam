@@ -1,6 +1,5 @@
 [![MasterHead](https://github.com/janelletam/janelletam/blob/main/Github%20Banner.png)](https://github.com/janelletam)
 
-## Hello! 👋  I'm Janelle, a software engineering student and full-stack developer.
 I deeply believe that when people have the time and space to work intentionally on projects that are important to them, they create beautiful and inspiring work. 
 
 1) I found my own passion at 16 when I built Project Empathic, a BC non-profit teaching elementary school students about homelessness through empathy-building workshops. 
