@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/janelletam/janelletam/blob/main/Github%20Banner.png)](https://github.com/janelletam)
 
-# Hello! 👋 
+# Hey! 👋 
 I'm Janelle, and I deeply believe that when people have the time and space to work intentionally on projects that are important to them, they create beautiful and inspiring work. :)
 
 1) I found my own passion at 16 when I built Project Empathic, a BC non-profit teaching elementary school students about homelessness through empathy-building workshops. 
@@ -32,7 +32,12 @@ When I hear how one of my projects has impacted someone’s life, I feel empower
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="60" height="60"/>
-</p>
+</h1>
+
+### Say hi!
+<h1 align="center">
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg" alt="linkedin" width="60" height="60"/>
+</h1>
 
 ### Some Fun Stats :)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=janelletam&theme=tokyonight)](https://git.io/streak-stats)
