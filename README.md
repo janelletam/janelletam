@@ -16,6 +16,8 @@ I deeply believe that when people have the time and space to work intentionally 
 
 When I hear how one of my projects has impacted someone’s life, I feel empowered to innovate again and again on an even bigger scale and inspire other young people to do the same. Share similar goals or values? [Say hi](mailto:janelletam.work@gmail.com), and let's chat! 💬
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janelletam)](https://git.io/streak-stats)
+
 <!--
 **janelletam/janelletam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
