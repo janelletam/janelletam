@@ -20,6 +20,9 @@ When I hear how one of my projects has impacted someone’s life, I feel empower
 
 ### Say hi!
 <div id="badges">
+  <a href="mailto:janelletam.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/janellewstam">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -28,9 +31,6 @@ When I hear how one of my projects has impacted someone’s life, I feel empower
   </a>
   <a href="https://www.youtube.com/@janelletam7735">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="mailto:janelletam.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
