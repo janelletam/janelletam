@@ -1,18 +1,6 @@
 [![MasterHead](https://github.com/janelletam/janelletam/blob/main/Github%20Banner.png)](https://github.com/janelletam)
 
 # Hey! 👋 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/janellewstam">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://x.com/_janelletam_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@janelletam7735">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
-
 I'm Janelle, and I deeply believe that when people have the time and space to work intentionally on projects that are important to them, they create beautiful and inspiring work. :)
 
 1) I found my own passion at 16 when I built Project Empathic, a BC non-profit teaching elementary school students about homelessness through empathy-building workshops. 
@@ -29,6 +17,19 @@ I'm Janelle, and I deeply believe that when people have the time and space to wo
 - 🧠 A neurological testing app @ UBC SimPL & SOAR to evaluate cognitive effects of concussive injuries on athletes (at SimPL) and intimate partner violence survivors (at SOAR)
 
 When I hear how one of my projects has impacted someone’s life, I feel empowered to innovate again and again on an even bigger scale and inspire other young people to do the same. Share similar goals or values? [Say hi](mailto:janelletam.work@gmail.com), and let's chat! 💬
+
+### Say hi!
+<div id="badges">
+  <a href="https://www.linkedin.com/in/janellewstam">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/_janelletam_">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@janelletam7735">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
 
 ---
 ### Languages and Tools
