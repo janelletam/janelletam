@@ -18,41 +18,23 @@ Hello! I'm Janelle, and I deeply believe that when people have the time and spac
 When I hear how one of my projects has impacted someone’s life, I feel empowered to innovate again and again on an even bigger scale and inspire other young people to do the same. Share similar goals or values? [Say hi](mailto:janelletam.work@gmail.com), and let's chat! 💬
 
 ## Some Fun Stats :)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=janelletam&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=janelletam&theme=tokyonight)](https://git.io/streak-stats)
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h1 align="left">Languages and Tools:</h3>
+<h2 align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://www.javascript.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org/en" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://aws.amazon.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <a href="https://developer.android.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-    </a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 </p>
 
 <!--
