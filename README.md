@@ -18,7 +18,7 @@ I'm Janelle, and I deeply believe that when people have the time and space to wo
 
 When I hear how one of my projects has impacted someone’s life, I feel empowered to innovate again and again on an even bigger scale and inspire other young people to do the same. Share similar goals or values? [Say hi](mailto:janelletam.work@gmail.com), and let's chat! 💬
 
---
+---
 ### Languages and Tools
 <h1 align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
