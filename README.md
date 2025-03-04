@@ -18,7 +18,7 @@ When I hear how one of my projects has impacted someone’s life, I feel empower
 
 ## Some Fun Stats :)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=janelletam&theme=tokyonight)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janelletam&hide=jupyternotebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janelletam&hide=jupyter&layout=pie)
 
 <!--
 **janelletam/janelletam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
