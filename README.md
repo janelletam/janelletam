@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/janelletam/janelletam/blob/main/Github%20Banner.png)](https://github.com/janelletam)
 
-I deeply believe that when people have the time and space to work intentionally on projects that are important to them, they create beautiful and inspiring work. 
+Hello! I'm Janelle, and I deeply believe that when people have the time and space to work intentionally on projects that are important to them, they create beautiful and inspiring work. :)
 
 1) I found my own passion at 16 when I built Project Empathic, a BC non-profit teaching elementary school students about homelessness through empathy-building workshops. 
 2) I now co-host Douze à Deux co-working sessions in Montreal to offer builders and makers a space to create. 
