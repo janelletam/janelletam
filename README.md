@@ -47,7 +47,7 @@ When I hear how one of my projects has impacted someone’s life, I feel empower
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="60" height="60"/>
 </h1>
 
-### Some Fun Stats :)
+### Some Fun Stats 👀
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=janelletam&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--
