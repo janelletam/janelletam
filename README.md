@@ -32,6 +32,9 @@ When I hear how one of my projects has impacted someone’s life, I feel empower
   <a href="https://www.youtube.com/@janelletam7735">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <a href="https://devpost.com/janelletam123">
+    <img src="https://img.shields.io/badge/Devpost-025E8C" alt="Devpost Badge"/>
+  </a>
 </div>
 
 ---
