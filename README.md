@@ -32,7 +32,7 @@ When I hear how one of my projects has impacted someone’s life, I feel empower
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>
     <a href="https://nodejs.org/en" target="_blank">
-        <img src="[https://github.com/devicons/devicon/tree/master/icons/nodejs](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg)" alt="nodejs" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
     </a>
     <a href="https://www.cprogramming.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
